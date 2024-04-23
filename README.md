@@ -1,5 +1,5 @@
 # CRUD DE LIVROS COM NESTJS E PRISMA
-👨‍🏫ESSE É UM CRUD QUE USA O SQL LITE COM PRISMA E API RESTFUL.
+👨‍🏫ESSE É UM CRUD QUE USA O SQLITE COM PRISMA E API RESTFUL.
 
 <img src="./IMAGENS/FOTO_1.png" align="center" width="500"> <br> 
 <img src="./IMAGENS/FOTO_2.png" align="center" width="500"> <br> 
