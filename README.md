@@ -67,7 +67,7 @@ Este aplicativo é um serviço RESTful para gerenciar livros. Ele usa o framewor
 * [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
 * [CURSO DE NESTJS](https://github.com/VILHALVA/CURSO-DE-NESTJS)
 * [CURSO DE PRISMA](https://github.com/VILHALVA/CURSO-DE-PRISMA)
-* [CURSO DE REST API](https://github.com/VILHALVA/CURSO-DE-REST-API)
+* [CURSO DE API REST](https://github.com/VILHALVA/CURSO-DE-API-REST)
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
