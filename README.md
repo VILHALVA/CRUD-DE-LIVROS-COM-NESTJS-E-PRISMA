@@ -64,7 +64,8 @@ Este aplicativo é um serviço RESTful para gerenciar livros. Ele usa o framewor
 
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
-* [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
+* [CURSO DE NODEJS](https://github.com/VILHALVA/CURSO-DE-NODEJS)
+* [CURSO DE SQLITE](https://github.com/VILHALVA/CURSO-DE-SQLITE)
 * [CURSO DE NESTJS](https://github.com/VILHALVA/CURSO-DE-NESTJS)
 * [CURSO DE PRISMA](https://github.com/VILHALVA/CURSO-DE-PRISMA)
 * [CURSO DE API REST](https://github.com/VILHALVA/CURSO-DE-API-REST)
